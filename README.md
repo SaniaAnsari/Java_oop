@@ -3,7 +3,8 @@
 This repository contains my OOP learning material for BSCS Semester 2.
 Language used: Java.
 
-## Topics Covered
+## 📚 Topics Covered
+
 - Classes & Objects
 - Constructors
 - Encapsulation
@@ -17,7 +18,8 @@ Language used: Java.
 - **Institution:** UBIT – University of Karachi  
 - **Course:** Java, Object-Oriented Programming (OOP)
 
-## Purpose
+## 🎯 Purpose
+
 - University exam preparation
 - Concept clarity
 - Practice and revision
